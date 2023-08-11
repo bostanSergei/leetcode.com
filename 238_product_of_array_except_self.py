@@ -1,4 +1,6 @@
 from collections import Counter
+
+
 def productExceptSelf(nums):
     '''
     level: medium

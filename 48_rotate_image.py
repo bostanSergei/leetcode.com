@@ -1,6 +1,3 @@
-import convert_name
-
-
 def rotate(matrix):
     '''
     lvl: medium

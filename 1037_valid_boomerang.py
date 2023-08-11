@@ -1,6 +1,3 @@
-import convert_name
-
-
 def isBoomerang(points):
     '''
     :param points: список трех точек с координатами x, y
