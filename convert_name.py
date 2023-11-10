@@ -1,5 +1,5 @@
 def convert_name(name: str):
-    return name.replace(' ', '_').replace('.', '').lower()
+    return name.replace(' ', '_').replace('.', '').replace('-', '_').lower()
 
 
-print(convert_name("2287. Rearrange Characters to Make Target String"))
+print(convert_name("295. Find Median from Data Stream"))
