@@ -2,4 +2,4 @@ def convert_name(name: str):
     return name.replace(' ', '_').replace('.', '').replace('-', '_').lower()
 
 
-print(convert_name("1422. Maximum Score After Splitting a String"))
+print(convert_name("34. Find First and Last Position of Element in Sorted Array"))
