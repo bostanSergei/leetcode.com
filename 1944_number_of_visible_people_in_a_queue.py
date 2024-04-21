@@ -12,6 +12,5 @@ def canSeePersonsCount(heights: list) -> list:
             i += 1
 
         resultList[i] = count
-
 heights = [10, 6, 8, 5, 11, 9]
 print(canSeePersonsCount(heights))
